@@ -36,7 +36,7 @@
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Intro</h2>
-								<p><a> Taking networking into the next era.</a>.</p>
+								<p>Taking networking into the next era.</p>
 								<p></p>
 							</article>
 
@@ -56,15 +56,15 @@
 								<h2 class="major">Contact</h2>
 								<form method="post" action="mailto:bozawglanian@cpp.edu">
 									<div class="field half first">
-										<label for="name">Name</label>
+										<label for="name">Name        </label>
 										<input type="text" name="name" id="name" />
 									</div>
 									<div class="field">
-										<label for="email">Email</label>
+										<label for="email">Email      </label>
 										<input type="text" name="email" id="email" />
 									</div>
 									<div class="field">
-										<label for="message">Message</label>
+										<label for="message">Message  </label>
 										<textarea name="message" id="message" rows="4"></textarea>
 									</div>
 									<ul class="actions">
