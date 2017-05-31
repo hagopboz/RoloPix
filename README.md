@@ -11,11 +11,9 @@
 
 		<!-- Wrapper -->
 			<div id="wrapper">
-
 				<!-- Header -->
 					<header id="header">
 						<div class="logo">
-							<span class="icon fa-coffee"></span>
 						</div>
 						<div class="content">
 							<div class="inner">
@@ -33,24 +31,20 @@
 							</ul>
 						</nav>
 					</header>
-
 				<!-- Main -->
 					<div id="main">
-
 						<!-- Intro -->
 							<article id="intro">
-								<h2 class="major">Intro</h2></span>
-								<p> Taking networking into the next era.</a>.</p>
+								<h2 class="major">Intro</h2>
+								<p><a> Taking networking into the next era.</a>.</p>
 								<p></p>
 							</article>
 
 						<!-- Work -->
 							<article id="work">
 								<h2 class="major">Why</h2>
-								<span class="image main"><img src="images/chemex.jpg" alt="" /></span>
 								<p>Everyone has a phone nowadays, so do we still walk around with a bunch of business cards in our wallet. Or has there been a time you wanted to contact someone you met, but you can't find their business card?</p>
 							</article>
-
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
@@ -65,7 +59,7 @@
 										<label for="name">Name</label>
 										<input type="text" name="name" id="name" />
 									</div>
-									<div class="field half">
+									<div class="field">
 										<label for="email">Email</label>
 										<input type="text" name="email" id="email" />
 									</div>
@@ -97,6 +91,3 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
